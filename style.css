@@ -1,0 +1,14 @@
+.card { 
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	max-width: 23%;
+}
+
+.info{
+	color: blue;
+	font-size: 18px;
+}
+
+.ciberpunk{ 
+	max-width: 300px;
+	max-height: 300px;
+}
